@@ -12,3 +12,6 @@ Contact me at linkedin.com/in/alexander-turpin-7a71b26b
 
 ## Roadmap:
 I would love to learn how to expand on this project and add ghosts or shapes for Pac-Man to chase around. 
+
+## Files:
+All files have been provided by MIT xPro and starting code was provided to us. 
